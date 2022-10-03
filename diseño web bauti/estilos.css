@@ -1,0 +1,42 @@
+.titulo__1{
+    color: aqua;
+}
+
+.subtitulo__1{
+    color: cyan;
+}
+.navegador__1{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    margin: 30px;
+    margin-right: 20px;
+    justify-content: space-between;
+    color:beige;
+    
+    
+}
+
+.nav-prifile_txt{
+    text-decoration: none;
+    color: beige;
+}
+
+.parrafo__1{
+color: #fff
+
+}
+
+
+
+.fondo__1{
+    background-color: #051441;
+}
+
+
+.profile-nav{
+    text-decoration: none;
+}
